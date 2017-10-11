@@ -1,0 +1,15 @@
+automacao\steps\login\StepsLogin.class
+automacao\page\administracao\usuario\PageUsuario.class
+automacao\driver\GWebDriver.class
+automacao\enuns\EnumLabel.class
+automacao\util\UtilParametros.class
+automacao\runner\RunBDDTest.class
+automacao\util\UtilGeral.class
+automacao\page\GenericPage.class
+automacao\page\login\PageLogin.class
+automacao\steps\administracao\usuario\StepsUsuario.class
+automacao\util\UtilMensagem.class
+automacao\page\home\PageHome.class
+automacao\enuns\EnumLog.class
+automacao\util\UtilData.class
+automacao\enuns\EnumMensagens.class
